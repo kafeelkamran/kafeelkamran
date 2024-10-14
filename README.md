@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kafeel kamran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kafeel kamran" height="30" width="40" /></a>
 <a href="https://instagram.com/_kafeel_kamran_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kafeel_kamran_" height="30" width="40" /></a>
+<a href="https://medium.com/@kafeel17kamran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Kafeelkamran" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
